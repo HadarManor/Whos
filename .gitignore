@@ -85,5 +85,5 @@ lint/tmp/
 # lint/reports/
 
 #bin and obj
-src/Whos/bin
-src/Whos/obj
+src/WhosGame/bin
+src/WhosGame/obj
