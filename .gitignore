@@ -83,3 +83,7 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+
+#bin and obj
+src/Whos/bin
+src/Whos/obj
